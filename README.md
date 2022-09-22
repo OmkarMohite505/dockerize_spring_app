@@ -16,4 +16,4 @@ docker image ls
 docker run -d -p 8080:8080 meet-docker.jar
 ```
 <a href="https://www.baeldung.com/java-dockerize-app">Reference</a>
-<a href="/repository/screenshots/">Dockerfile</a>
+<img src="/repository/screenshots/Dockerfile.jpg"></img>
