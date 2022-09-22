@@ -1,7 +1,7 @@
 ## Dockerize Spring App
 How to Dockerize Spring boot or Java Application
 Dockerfile
-``bash
+```bash
 FROM openjdk:11
 COPY target/meet.jar app.jar
 ENTRYPOINT ["java","-jar","/app.jar"]
